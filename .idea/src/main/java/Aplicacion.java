@@ -11,7 +11,7 @@ public class Aplicacion {
         //Crear los objetos de mi clase gato
         //Crear a Katty
         Gato katty= new Gato("Katty", 12, "criolla", "hembra", alejandro, juan);
-        System.out.println(katty);
+        System.out.println(katty + katty.getEdad());
 
 
     }
