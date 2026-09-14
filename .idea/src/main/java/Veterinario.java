@@ -2,13 +2,11 @@ public class Veterinario {
     //Atributos
     private String nombre;
     private int numLicencia;
-    private TipoEspecialidad tipoEspecialidad;
 
     //Constructor
-    public Veterinario(String nombre, int numLicencia, TipoEspecialidad tipoEspecialidad) {
+    public Veterinario(String nombre, int numLicencia) {
         this.nombre = nombre;
         this.numLicencia = numLicencia;
-        this.tipoEspecialidad= tipoEspecialidad;
     }
 
     //Getters y setters
@@ -28,20 +26,11 @@ public class Veterinario {
         this.numLicencia = numLicencia;
     }
 
-    public TipoEspecialidad getTipoEspecialidad() {
-        return tipoEspecialidad;
-    }
-
-    public void setTipoEspecialidad(TipoEspecialidad tipoEspecialidad) {
-        this.tipoEspecialidad = tipoEspecialidad;
-    }
-
     //Mostrar la información del veterinario
     @Override
     public String toString() {
         return
                 nombre +
-                ", numLicencia:" + numLicencia+
-                ", tipo de especialidad: "+tipoEspecialidad;
+                ", numLicencia:" + numLicencia;
     }
 }

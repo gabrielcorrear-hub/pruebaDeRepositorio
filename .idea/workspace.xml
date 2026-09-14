@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39943f32-cafe-4618-aad5-4d8f254443d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Aplicacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Propietario.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Propietario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Veterinario.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Veterinario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,15 +31,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ed\Documents\GitHub\pruebaDeRepositorio\.idea\src\main\java" />
       <recent name="C:\Users\Ed\Documents\GitHub\pruebaDeRepositorio" />
     </key>
   </component>

@@ -6,18 +6,12 @@ public class Gato {
     private String raza;
     private String genero;
 
-    //Relaciones
-    private Propietario propietario;
-    private Veterinario veterinario;
-
     //Constructor
-    public Gato(String nombre, int edad, String raza, String genero, Propietario propietario, Veterinario veterinario){
+    public Gato(String nombre, int edad, String raza, String genero){
         this.nombre= nombre;
         this.edad= edad;
         this.raza= raza;
         this.genero= genero;
-        this.propietario= propietario;
-        this.veterinario= veterinario;
     }
 
     //Getters y setters
@@ -48,31 +42,13 @@ public class Gato {
         this.genero= genero;
     }
 
-    public Propietario getPropietario() {
-        return propietario;
-    }
-
-    public void setPropietario(Propietario propietario) {
-        this.propietario = propietario;
-    }
-
-    public Veterinario getVeterinario() {
-        return veterinario;
-    }
-
-    public void setVeterinario(Veterinario veterinario) {
-        this.veterinario = veterinario;
-    }
-
     //toString
     @Override
     public String toString(){
         return "Nombre de la mascota: "+nombre+
                 ", edad: "+edad+
                 ", raza: "+raza+
-                ", genero: "+genero+
-                "\n propietario: "+propietario+
-                "\n veterinario: "+veterinario;
+                ", genero: "+genero;
     }
 
     // Métodos propios del gato
