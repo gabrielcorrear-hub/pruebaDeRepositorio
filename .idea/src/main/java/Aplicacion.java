@@ -12,7 +12,7 @@ public class Aplicacion {
         //Crear a Katty
         Gato katty= new Gato("Katty", 12, "criolla", "hembra");
         System.out.println(katty);
-        //System.out.println(alejandro);
-
+        System.out.println(alejandro);
+        //Mostrar veterinario
     }
 }
