@@ -11,8 +11,10 @@ public class Aplicacion {
         //Crear los objetos de mi clase gato
         //Crear a Katty
         Gato katty= new Gato("Katty", 12, "criolla", "hembra");
+        //Mostrar en consola
         System.out.println(katty);
         System.out.println(alejandro);
         //Mostrar veterinario
+        System.out.println(juan);
     }
 }
