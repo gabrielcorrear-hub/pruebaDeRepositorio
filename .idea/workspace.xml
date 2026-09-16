@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39943f32-cafe-4618-aad5-4d8f254443d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Aplicacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Propietario.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Propietario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/Veterinario.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/Veterinario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39943f32-cafe-4618-aad5-4d8f254443d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +10,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JILb254aI9W3DSU8YmBDAwOp65" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +27,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
